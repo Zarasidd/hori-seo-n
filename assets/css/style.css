@@ -1,29 +1,30 @@
+/* Box Model and Default Style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Global Style */
 body {
     background-color: #d9dcd6;
 }
-
+/* Header Style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Header h1 Style */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* "seo" text within Header h1 Style */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Header Navigation Style */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +32,26 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* 
 .header nav ul {
     list-style-type: none;
-}
+} */
 
+/* Navigation List Items Style */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Links Style */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Paragraph Style */
 p {
     font-size: 16px;
 }
-
+/* Hero Image Section Style */
 .hero {
     height: 1200px;
     width: 100%;
@@ -58,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Float Styles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +70,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Content Section Style */
 .content {
-    width: 77%;
+    width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Benefits Section Default Style */
 .benefits {
     margin-right: 20px;
     padding: 50px;
@@ -85,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Benefit Section Individual Style */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost
@@ -93,7 +95,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Benefit Section Heading Style */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3
@@ -101,7 +103,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Benefit Section Images Style */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img
@@ -110,7 +112,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Article Section Style */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing
@@ -122,13 +124,14 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Article Section Images Style */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img
  {
     max-height: 200px;
  }
+ /* Article Section Heading Style */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2
@@ -136,14 +139,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer Style */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Footer h2 Style */
 .footer h2 {
     font-size: 20px;
 }
