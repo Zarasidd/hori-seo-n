@@ -1,4 +1,4 @@
-#hori-seo-n
+# hori-seo-n
 
 ## Introduction
 Welcome to the Hori-seo-n Project! This project is aimed at enhancing the accessibility of a starter code for a web application so that web content is usable by everyone, including individuals with disabilities. This README provides an overview of the project, its objectives, a screenshot of the web application and a link to access the web application.
