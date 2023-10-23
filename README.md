@@ -14,6 +14,6 @@ The primary goals of this project are as follows:
 - Enhance the user experience for individuals with disabilities.
 
 ## Screenshot of the Web Application:
-![Hori-seo-n Project](assets/images/hori-seo-n.png)
+![Hori-seo-n Project](/assets/images/hori-seo-n.png)
 
 ## Link to the Deployed Application:
