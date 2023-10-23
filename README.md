@@ -21,4 +21,7 @@ The primary goals of this project are as follows:
 ![Hori-seo-n Project](assets/images/Hori-seo-n.png)
 
 ## Link to the Application:
+https://zarasidd.github.io/hori-seo-n/
 
+## License:
+MIT License.
